@@ -100,6 +100,10 @@ body .nav-black .nav-red .nav-white .list li ul {
   padding-left: 20px;
 }
 
+body .nav-black .nav-red .nav-white img {
+  margin-left: -13px;
+}
+
 body .nav-black .nav-red .nav-white.visible {
   transition-delay: 0.4s;
 }
